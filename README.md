@@ -1,4 +1,4 @@
-##hacktoberfest
+
 # Instalação:
 
 1. Faça o clone do repositório:
